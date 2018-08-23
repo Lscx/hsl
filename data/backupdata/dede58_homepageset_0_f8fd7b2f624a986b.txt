@@ -1,0 +1,1 @@
+INSERT INTO `dede58_homepageset` VALUES('ziyinghuajia/index.htm','../index.html','1');
